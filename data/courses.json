@@ -1,0 +1,17 @@
+[{
+        "subject_code": "CS",
+        "number": "123",
+        "title": "Intro to CS",
+        "term": "SP22",
+        "instructor_id": "5"
+    },
+    {
+        "subject_code": "CS",
+        "number": "493",
+        "title": "Cloud Application Development",
+        "term": "SP22",
+        "instructor_id": "3"
+
+    }
+
+]

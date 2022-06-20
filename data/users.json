@@ -1,0 +1,43 @@
+[{
+        "role": 0,
+        "name": "John Walker",
+        "email": "john@gmail.com",
+        "password": "hunter2"
+    },
+    {
+        "role": 0,
+        "name": "James Madden",
+        "email": "jamesn@gmail.com",
+        "password": "hunter3"
+    },
+    {
+        "role": 1,
+        "name": "Rob Hess",
+        "email": "rob@gmail.com",
+        "password": "hunter21"
+    },
+    {
+        "role": 0,
+        "name": "Canada Man",
+        "email": "canadaman@gmail.com",
+        "password": "hunter2222222"
+    },
+    {
+        "role": 1,
+        "name": "Mike Bailey",
+        "email": "mikey@gmail.com",
+        "password": "hunter"
+    },
+    {
+        "role": 0,
+        "name": "Philip",
+        "email": "philip@gmail.com",
+        "password": "hunter22222"
+    },
+    {
+        "role": 2,
+        "name": "Jacob Eckroth",
+        "email": "jacobeckroth@gmail.com",
+        "password": "jacobscoolpassword"
+    }
+]
